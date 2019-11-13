@@ -1,3 +1,5 @@
 Budget\Main.class
+Repository\MapaTypow.class
+Budget\Wydatek.class
 Budget\Menu.class
 Budget\WydatekPrzychod.class
